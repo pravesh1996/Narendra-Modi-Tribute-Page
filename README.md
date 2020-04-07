@@ -1,2 +1,5 @@
-# Narendra-Modi-Tribute-Page
-A Narendra Modi Tribute Page
+This is a Narendra Modi Tribute Page.
+
+it makes up the first part of my coding portfolio.
+
+Enjoy!
